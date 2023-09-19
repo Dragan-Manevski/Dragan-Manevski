@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dragan-Manevski
-- 👀 I’m interested in Data Analytics, Data Engineering, Machine Learning, and Deep Learning
-- 🌱 I’m currently learning 'Big Data'
-- 💞️ I’m looking to collaborate on Data Analytics, Machine Learning, or Deep Learning projects
+- 👀 I’m interested in Data Analytics, Machine Learning, and Salesforce Administration & Development
+- 🌱 I’m currently learning about the customizing of the Salesforce Platform
+- 💞️ I’m looking to collaborate on Data Analytics, Machine Learning, or Salesforce Administration projects
 - 📫 How to reach me: draganmanevski@yahoo.com
 
 <!---
